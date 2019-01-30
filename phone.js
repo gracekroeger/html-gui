@@ -1,6 +1,8 @@
+<script type="text/javascript">
 $(document).ready(function() {
-	$("div#dialercontent").show(); 
-	$("div#conatctcontent").hide();
+	$("#dialercontent").show(); 
+	$("#conatctcontent").hide();
 });
+</script>
 
 
