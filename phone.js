@@ -1,6 +1,6 @@
 $(document).ready(function() {
-	$("#dialercontent").show(); 
-	$("#conatctcontent").hide();
+	$("div#dialercontent").show(); 
+	$("div#conatctcontent").hide();
 });
 
 
