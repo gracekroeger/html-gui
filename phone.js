@@ -1,5 +1,5 @@
-$(document).ready(function() { // do this when the document is loaded
-	$("#dialercontent").show(); // show the element with ID "element"
+$(document).ready(function() {
+	$("#dialercontent").show(); 
 	$("#conatctcontent").hide();
 });
 
