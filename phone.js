@@ -1,6 +1,7 @@
 $(document).ready(function() { // do this when the document is loaded
-	$("#element").show(); // show the element with ID "element"
-	$("#otherElement").hide(); // hide the element with ID "otherElement"
+	$("#dialerContent").show(); // show the element with ID "element"
+	$("#conatctContent").hide();
+	$("#addContent").hide();// hide the element with ID "otherElement"
 });
 
 $("#button_id").click(function() { // when "button_id" is clicked
