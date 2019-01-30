@@ -1,3 +1,18 @@
-/* make all buttons 20 by 20 pixels with white text and green background and a 10 pixel margin */
-button { width: 5%; height: 5%; background:white; color: grey; margin: 2%; box-shadow: 10px 10px 5px grey;}
+button { width: 15%; height: 7%; background:white; 
+	color: grey; 
+	border: none; 
+	border-radius: 4px; 
+	opacity: 0.6; 
+	margin: 1%; 
+	box-shadow: 1px 2px 5px lightgrey;
+	font-size: 1em;}
 
+	button:active {
+	color: #4285F4;
+	opacity: 1; 
+	border-bottom: 2px solid #4285F4;}
+
+	button:hover {
+	color: #4285F4;
+	opacity: 1;
+	border-bottom: 2px solid #4285F4;}
